@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <h2 align="left">👋 Hi, I'm Nika!</h2>
 
 ###
